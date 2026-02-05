@@ -122,8 +122,7 @@ medi-mate-0.1/
 | Variable | Description |
 |----------|-------------|
 | `GOOGLE_API_KEY` | Google Gemini API key for LLM and Vision |
-| `PINECONE_API_KEY` | Pinecone API key for vector database |
-| `MONGO_URI` | MongoDB connection string |
+
 
 ---
 
