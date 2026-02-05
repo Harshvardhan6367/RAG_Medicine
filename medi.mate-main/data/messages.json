@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "session_id": "400f60b3-70e0-4faa-a3ff-f5798a9bb188",
+      "role": "user",
+      "content": "explain about the pain killer medicies and brief when to use and it's symptions",
+      "timestamp": "2026-01-19T16:05:59.783830"
+    },
+    {
+      "session_id": "400f60b3-70e0-4faa-a3ff-f5798a9bb188",
+      "role": "ai",
+      "content": "Based on your prescription, here are the medications that are typically used for pain relief:\n\n*   **TAB ETICOX 90MG**:\n    *   **Instructions:** Take 1 tablet in the morning and 1 tablet at night.\n    *   **Common Use:** Etoricoxib is a non-steroidal anti-inflammatory drug (NSAID) commonly used to relieve pain and inflammation associated with conditions like arthritis, gout, and acute pain.\n\n*   **TAB FOR JOINT G 1500**:\n    *   **Instructions:** Take 1 tablet in the morning and 1 tablet at night for 20 days.\n    *   **Common Use:** This medication is likely a supplement containing Glucosamine, which is often used to help manage symptoms of osteoarthritis, such as joint pain and stiffness.\n\nRegarding symptoms, pain can manifest in various ways depending on the cause. Common symptoms associated with pain include:\n\n*   Aching or throbbing sensation\n*   Sharp or stabbing pain\n*   Burning sensation\n*   Stiffness\n*   Swelling\n*   Redness",
+      "timestamp": "2026-01-19T16:05:59.801243"
+    },
+    {
+      "session_id": "400f60b3-70e0-4faa-a3ff-f5798a9bb188",
+      "role": "user",
+      "content": "explain me about swelling pills",
+      "timestamp": "2026-01-19T16:11:08.102973"
+    },
+    {
+      "session_id": "400f60b3-70e0-4faa-a3ff-f5798a9bb188",
+      "role": "ai",
+      "content": "Based on your prescription, here are the medications that could be related to swelling:\n\n*   **TAB ETICOX 90MG**:\n    *   **Instructions:** Take 1 tablet in the morning and 1 tablet at night.\n    *   **Common Use:** Etoricoxib is a non-steroidal anti-inflammatory drug (NSAID). NSAIDs are commonly used to reduce pain and inflammation, which can include swelling associated with conditions like arthritis, gout, or acute pain.\n\n*   **TAB FOR JOINT G 1500**:\n    *   **Instructions:** Take 1 tablet in the morning and 1 tablet at night for 20 days.\n    *   **Common Use:** This medication likely contains Glucosamine, which is often used as a supplement to help manage symptoms of osteoarthritis, including joint pain and stiffness, and can indirectly help with swelling related to joint inflammation.",
+      "timestamp": "2026-01-19T16:11:08.125280"
+    },
+    {
+      "session_id": "088d8a77-ad99-4831-98ae-b95a4a797c5d",
+      "role": "user",
+      "content": "explain me about this ct scan image does i have any diseases?",
+      "timestamp": "2026-01-20T05:47:38.366828"
+    },
+    {
+      "session_id": "088d8a77-ad99-4831-98ae-b95a4a797c5d",
+      "role": "ai",
+      "content": "I am sorry, but I cannot interpret medical images like CT scans. My purpose is to assist with information about medications based on prescriptions. To understand your CT scan results and any potential diseases, please consult with your doctor or a qualified radiologist. They are the best equipped to explain what the images show and what it means for your health.",
+      "timestamp": "2026-01-20T05:47:38.388250"
+    }
+  ]
+}

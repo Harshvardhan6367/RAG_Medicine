@@ -1,0 +1,19 @@
+[project]
+name = "medical-prescription-rag"
+version = "0.1.0"
+description = "RAG application for medical prescriptions using Gemini and LangGraph"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit",
+    "google-generativeai",
+    "langgraph",
+    "langchain-google-genai",
+    "langchain-community",
+    "python-dotenv",
+    "pypdf",
+    "pillow",
+    "tiktoken",
+    "bcrypt",
+    "numpy"
+]

@@ -1,0 +1,54 @@
+{
+  "sessions": [
+    {
+      "session_id": "400f60b3-70e0-4faa-a3ff-f5798a9bb188",
+      "user_id": "Harshvardhan00",
+      "prescription_id": "954eb322-9acc-4ab4-9ed5-3f7e830f7cbc",
+      "summary": "",
+      "created_at": "2026-01-19T16:03:59.338344",
+      "last_active": "2026-01-19T16:11:08.140780",
+      "title": "Prescription: TAB HYTEL AM, TAB ETICOX 90MG...",
+      "filename": "WhatsApp Image 2026-01-19 at 9.26.17 PM.jpeg",
+      "details": "- TAB HYTEL AM (Qty: 1): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- TAB ETICOX 90MG (Qty: 1): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: -\n- TAB FOR JOINT G 1500 (Qty: 1): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1, Duration: 20\n- TAB PREGANERVE NT (Qty: 0-0-1): Morning: No, Afternoon: No, Night: Yes, Instruction: -, Freq: 0-0-1, Duration: -\n- CAP SULGIRIDE R (Qty: 1-0-0): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: 1-0-0, Duration: -\n- TAB GEMFOS (Qty: once a week): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: once a week, Duration: 4\n- OINT ADAPRYIN GEL (Qty: (2)): Morning: Yes, Afternoon: Yes, Night: Yes, Instruction: -, Freq: L/A, Duration: 2\n- SYP PEG CLEAR (Qty: 25ML): Morning: Yes, Afternoon: No, Night: Yes, Instruction: Before Meal, Freq: 0-0-1(50S), Duration: -\n- SYP APTILIFE (Qty: 10ML): Morning: Yes, Afternoon: No, Night: Yes, Instruction: Before Dinner, Freq: 0-0-1, Duration: 1/2\n- OINT ANOMETROGYL (Qty: (1)): Morning: Yes, Afternoon: Yes, Night: Yes, Instruction: -, Freq: L/A, Duration: 1",
+      "otc_result": {
+        "otc_medicines": [],
+        "consult_medicines": [
+          {
+            "name": "- TAB HYTEL AM ",
+            "reason": "No matching approved OTC medicine found in database."
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "ca88d6f2-81ef-4601-a178-e299271dc5cb",
+      "user_id": "Harshvardhan00",
+      "prescription_id": "32a1af7f-c815-4a99-b737-6d41d47f43ce",
+      "summary": "",
+      "created_at": "2026-01-20T04:56:31.571132",
+      "last_active": "2026-01-20T04:56:31.571148",
+      "title": "Prescription: TAB HYTEL AM, TAB ETICOX 90MG...",
+      "filename": "002.jpeg",
+      "details": "- TAB HYTEL AM (Qty: 1 tablet): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: 1-0-0, Duration: -\n- TAB ETICOX 90MG (Qty: 1 tablet): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: 1-0-1, Duration: -\n- TAB FOR JOINT G 1500 (Qty: 1): Morning: Yes, Afternoon: No, Night: Yes, Instruction: -, Freq: 1-0-1(20), Duration: -\n- TAB PREGANERVE NT (Qty: 0-0-1): Morning: No, Afternoon: No, Night: Yes, Instruction: -, Freq: 0-0-1, Duration: -\n- CAP SULGIRIDE R (Qty: 1-0-0): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: 1-0-0, Duration: -\n- TAB GEMFOS (Qty: Once a week): Morning: Yes, Afternoon: No, Night: No, Instruction: -, Freq: Once a week, Duration: (4)\n- OINT ADAPYRIN GEL (Qty: L/A): Morning: Yes, Afternoon: Yes, Night: Yes, Instruction: -, Freq: (2), Duration: -\n- SYP PEGICLEA (Qty: 25ML): Morning: Yes, Afternoon: No, Night: Yes, Instruction: After meal, Freq: 0-0-1(505), Duration: -\n- SYP APTILIFE (Qty: 10ML): Morning: Yes, Afternoon: No, Night: Yes, Instruction: Before dinner, Freq: 0-0-1, Duration: (1/2 BEFORE DINNER)\n- OINT ANOMETROGYL (Qty: L/A): Morning: -, Afternoon: -, Night: -, Instruction: -, Freq: (1), Duration: -",
+      "otc_result": {
+        "otc_medicines": [],
+        "consult_medicines": [
+          {
+            "name": "- TAB HYTEL AM ",
+            "reason": "No matching approved OTC medicine found in database."
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "088d8a77-ad99-4831-98ae-b95a4a797c5d",
+      "user_id": "Harshvardhan00",
+      "prescription_id": "88beef37-8a60-4a0f-a9f3-5fc85b8694a1",
+      "summary": "",
+      "created_at": "2026-01-20T05:46:46.634622",
+      "last_active": "2026-01-20T05:47:38.406274",
+      "title": "Prescription img01.jpg",
+      "filename": "img01.jpg"
+    }
+  ]
+}
